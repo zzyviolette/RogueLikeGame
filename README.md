@@ -23,8 +23,8 @@ so in the begging the game will ask you to choose a mode :
   - @ are the doors
   - '#' are the routes between rooms
   - K, A, B are the monsters (K and A move rondomly, B follow you)
-  - to kill a monster you need to touch it many times (each time your health and his health are draining)
-  - F is the door (closed) to the next level to open this door you need to obtain experience by killing monsters
+  - to kill a monster you need to attack it many times (each time your health and his health are draining)
+  - F is the door (closed) to the next level, to open this door you need to obtain experience by killing monsters
   - S is the open door to the next level
   - P is the open door to the previous level
   - for each move you do monsters will move alsso
